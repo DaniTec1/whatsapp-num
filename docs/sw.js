@@ -1,4 +1,4 @@
-//asignar un nombre y versión al cache
+;//asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_cache_openchat',
   urlsToCache = [
     './',
